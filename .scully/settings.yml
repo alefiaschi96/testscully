@@ -1,0 +1,11 @@
+identifier: l27e6b723bffrd38
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: firstScullyProj
+homeFolder: /Users/ale/Documents/Progetti/Codeploy/ScullyTest/testScully
+distFolder: dist/first-scully-proj
+outDir: /Users/ale/Documents/Progetti/Codeploy/ScullyTest/testScully/dist/static
+handle404: ''
+allowErrorCollect: false

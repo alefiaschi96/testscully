@@ -89,3 +89,46 @@ Using stored unhandled routes!.----------------------------------   To discover 
 
 handleUnknownRoute: "/blog/index.html", 404:""
 handleUnknownRoute: "/blog/index.html", 404:""
+(You can skip this, or any future question by using the --noPrompt flag)
+----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Using stored unhandled routes!.----------------------------------
+
+
+
+handleUnknownRoute: "/blog/index.html", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/blog/index.html", 404:""
+handleUnknownRoute: "/blog/2022-08-22-blog/index.html", 404:""
+handleUnknownRoute: "/blog/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW/index.html", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/blog/", 404:""
+handleUnknownRoute: "/blog/index.html", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Using stored unhandled routes!.----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
