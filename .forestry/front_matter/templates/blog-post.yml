@@ -6,8 +6,8 @@ fields:
   type: text
   config:
     required: false
-  label: Title
-  description: Title
+  label: Title of Post
+  description: Title of post
 - name: description
   type: textarea
   default: ''
