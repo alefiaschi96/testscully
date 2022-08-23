@@ -17,3 +17,12 @@ fields:
     schema:
       format: markdown
   label: Description
+- name: date
+  type: datetime
+  label: Date
+  description: Date of the post
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
