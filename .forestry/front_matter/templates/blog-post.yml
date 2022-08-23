@@ -27,3 +27,5 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+pages:
+- blog/test-1-title.md
