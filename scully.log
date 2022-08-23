@@ -1,0 +1,91 @@
+(You can skip this, or any future question by using the --noPrompt flag)
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+Scully development Server is already started running in a different folder(You can skip this, or any future question by using the --noPrompt flag)
+
+Scully development Server is already started running in a different folder(You can skip this, or any future question by using the --noPrompt flag)
+
+Scully development Server is already started running in a different folder(You can skip this, or any future question by using the --noPrompt flag)
+
+
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      handleUnknownRoute: "/blog/index.html", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"------------------------------------------------------------------------------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"
+
+
+
+handleUnknownRoute: "/blog/index.html", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/blog/index.html", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+handleUnknownRoute: "/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/blog/index.html", 404:""
+handleUnknownRoute: "/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW", 404:""
+handleUnknownRoute: "/blog/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW/index.html", 404:""
+handleUnknownRoute: "/blog/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW/index.html", 404:""
+handleUnknownRoute: "/blog/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW/index.html", 404:""
+handleUnknownRoute: "/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW", 404:""
+handleUnknownRoute: "/blog/___UNPUBLISHED___l74w112g_qpYDcpsZqswskevrzRpaqM5IClvJdeDW/index.html", 404:""
+Using stored unhandled routes!.----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/blog/index.html", 404:""
+handleUnknownRoute: "/blog/index.html", 404:""
